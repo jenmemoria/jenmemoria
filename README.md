@@ -1,7 +1,7 @@
 ## About me
 
 <h1 align="center">Hi 👋 I'm Jeeun Wang — building better with code.</h1>
-<h3 align="center">I am working with the mission of change the world a better than yesterday!</h3>
+<h3 align="center">My mission is simple: build a better world, one line of code at a time.</h3>
 
 - 🌱 I’m currently learning **algorithm**
 
