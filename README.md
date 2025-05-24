@@ -1,6 +1,6 @@
 ## About me
 
-<h1 align="center">Hi 👋, This is Jeeun Wang, a developer who codes dreams.</h1>
+<h1 align="center">Hi 👋, I'm Jeeun Wang — a developer who brings ideas to life through code.</h1>
 <h3 align="center">I am working with the mission of change the world a better than yesterday!</h3>
 
 - 🌱 I’m currently learning **algorithm**
